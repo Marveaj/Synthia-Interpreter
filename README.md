@@ -1,1 +1,2 @@
-# Synthia-Interpreter
+# Synthia-Interpreter 
+For my project, I built a special tool that can understand and run its own programming language. I started by creating parts that read and organize the code, and then added features that let the program do more complex tasks like managing functions and different kinds of data. This work led to a powerful tool that can handle a wide range of computer programming jobs with ease

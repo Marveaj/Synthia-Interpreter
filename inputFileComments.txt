@@ -1,0 +1,4 @@
+(*comment is true*)
+(5+5)
+asd(*asd*)psd
+x := 10
